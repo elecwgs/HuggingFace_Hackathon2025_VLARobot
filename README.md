@@ -197,8 +197,9 @@ Policy Model 예측(빨간 선)이 거의 완전히 일치하여
 사용자 음성: “파란 양초 넣어줘” → STT → Vision Target Detection →  
 Imitation Policy로 Pick Trajectory 생성 → Box로 이동 후 Place
 <p align="center">
-  <img src="image/result.gif" width="600" height="400">
+  <img src="image/result.GIF" width="600" height="400">
 </p>
+
 <br>
 
 <p align="center">
