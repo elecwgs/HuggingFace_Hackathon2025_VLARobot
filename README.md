@@ -194,16 +194,16 @@ Policy Model 예측(빨간 선)이 거의 완전히 일치하여
 
 #  9. Demonstration Video
 
-> 사용자 음성: “파란 양초 넣어줘”
-> → STT
-> → Vision Target Detection
-> → Imitation Policy로 Pick Trajectory 생성
-> → Box로 이동 후 Place
+사용자 음성: “파란 양초 넣어줘” → STT → Vision Target Detection →  
+Imitation Policy로 Pick Trajectory 생성 → Box로 이동 후 Place
 
-**Demo Video (MP4)**
+<br>
 
 <p align="center">
-<video src="https://github.com/elecwgs/HuggingFace_Hackathon2025_VLARobot/blob/main/images/result.mp4" controls width="700" height="400"></video>
+  <a href="https://github.com/elecwgs/HuggingFace_Hackathon2025_VLARobot/raw/main/images/result.mp4">
+    🎬 Demo Video (MP4) - Click to Play
+  </a>
+</p>
 
 
 ---
