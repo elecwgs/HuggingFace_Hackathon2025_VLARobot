@@ -200,7 +200,7 @@ Imitation Policy로 Pick Trajectory 생성 → Box로 이동 후 Place
 <br>
 
 <p align="center">
-  <a href="https://github.com/elecwgs/HuggingFace_Hackathon2025_VLARobot/raw/main/images/result.mp4">
+  <a href="https://github.com/elecwgs/HuggingFace_Hackathon2025_VLARobot/raw/main/image/result.mp4">
     🎬 Demo Video (MP4) - Click to Play
   </a>
 </p>
